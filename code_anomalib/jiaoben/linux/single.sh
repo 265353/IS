@@ -1,2 +1,0 @@
-# python /mnt/Disk8T/zmh/anomalib/anomalib/tools/train.py --config /mnt/Disk8T/zmh/anomalib/anomalib/src/anomalib/models/padim/config.yaml
-python F:\\ML\\anomalib\\tools\\train.py --config F:\\ML\\anomalib\\src\\anomalib\\src\\anomalib\\models\\patchcore\\config.yaml
